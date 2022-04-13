@@ -1,0 +1,10 @@
+/* #photo{
+    background-image: url(groupimage.jpg);
+    background-size: 100%;
+    position: relative;
+    opacity: 0.55;
+   
+} */
+img{
+    opacity: 0.5;
+}

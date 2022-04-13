@@ -1,0 +1,137 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+#outside{
+    border: 1px solid lightgray;
+    height: 800px; width: 480px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+#heading{
+     font-family: arial;
+    font-size: 15px; 
+    font-style: bold;
+    text-align: center;
+    margin: 20px;
+    margin-right: 32px;
+}
+#alert{
+    font-family: arial;
+    font-size: x-small;
+    margin-left: 25px;
+    margin-top: -2px;
+    /* margin: auto; */
+}
+#first{
+    border: 1px solid lightgray;
+    font-family: arial;
+    font-size: 10px;
+    text-align: left;
+    height: 225px; width: 420px;
+    margin: auto;
+}
+#second{
+    font-size: 12px;
+}
+#a{
+    height: 6.5px;
+    font-size: xx-small;
+}
+#b{
+ height: 10px; width: 8px;   
+}
+#c{
+    height: 10px; width: 100px;
+    font-size: xx-small;
+}
+#third{
+    border: 1px solid lightgray;
+    font-size: 10px;
+    text-align: left;
+    height: 130px; width: 420px;
+    margin: auto;
+}
+#d{
+    height: 12px; width: 10px;  
+}
+#fourth{
+    border: 1px solid lightgray;
+    font-size: 10px;
+    text-align: left;
+    height: 20px; width: 420px;
+    margin: auto;
+    display: flex;
+    /* justify-content: space-between; */
+}
+#g{
+margin-left: 10px;   
+}
+#f{
+    height: 15px; width:67px;
+    font-size: xx-small;
+    text-align: left;
+   
+}
+  #h{
+    height: 15px; width:67px;
+    font-size: xx-small;
+    text-align: left;
+}
+#fifth{
+    border: 1px solid lightgray;
+    font-family: arial;
+    font-size: 10px;
+    text-align: left;
+    height: 190px; width: 420px;
+    margin: auto;
+}
+#sixth{
+    font-family: arial;
+    font-size: 12px;
+}
+.i{
+    /* height: 30px; width: 180px; */
+    margin-top: -20px;
+    margin-left: -20px;
+    /* margin-left: 0px; */
+    padding: 20px ;
+    /* padding-top: 2px; */
+    font-size: 10px;
+    /* box-sizing: content-box; */
+    /* text-align: center; */
+    /* padding-left: 0px; */
+}
+.i > textarea{
+    font-size: 10px;
+    /* text-align: start; */
+    /* padding-top: -10px; */
+    /* vertical-align: top; */
+    /* float:left; */
+} 
+#para{
+    margin-top: -20px;
+}
+#para2{
+    margin-top: -20px;
+}
+#j{
+background-color: red;
+text-align: center;
+font-size: small;
+color: white;
+border-radius: 2px;
+border: none;
+height: 20px; width: 80px;
+}
+#k{
+    background-color: red;
+text-align: center;
+font-size: small;
+color: white;
+border-radius: 2px;
+border: none;
+height: 20px; width: 145px;
+margin-left: 172px;
+
+}
